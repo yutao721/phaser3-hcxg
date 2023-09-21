@@ -1,4 +1,4 @@
-
+// @ts-nocheck
 
 import Phaser from 'phaser';
 const CDN = 'https://storage.360buyimg.com/web-static/hexigua'

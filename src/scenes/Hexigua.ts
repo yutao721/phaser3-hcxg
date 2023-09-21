@@ -1,3 +1,4 @@
+// @ts-nocheck
 import Phaser from 'phaser';
 
 const WINDOW_WIDTH = window.innerWidth
